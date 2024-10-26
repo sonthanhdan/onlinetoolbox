@@ -4,5 +4,7 @@ Online Toolbox - the ultimate collection of free tools for converting text, gene
 
 # tools
 [Wheel of names](https://www.onlinetoolbox.dev/wheel-of-names)
+
 [Password generator](https://www.onlinetoolbox.dev/password-generator)
+
 [BMI Caluator](https://www.onlinetoolbox.dev/bmi-calculator)
